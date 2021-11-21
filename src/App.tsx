@@ -9,6 +9,7 @@ import SchemaForm from '../lib'
 
 // TODO: 在lib中export
 type Schema = any
+
 type UISchema = any
 
 function toJson(data: any) {
